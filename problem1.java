@@ -1,7 +1,7 @@
 public class problem1{
 	public static void main(String[]args){
 		int x = 1000;
-		System.out.println(getMultiples(x));
+		System.out.println("The sum of the multiples of 3 and 5 below 1000 is: " + getMultiples(x));
 	}
 	public static int getMultiples(int max){
 		int sum = 0;
