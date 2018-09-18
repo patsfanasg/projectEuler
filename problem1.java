@@ -1,6 +1,6 @@
 public class problem1{
 	public static void main(String[]args){
-		int x = 10;
+		int x = 1000;
 		System.out.println(getMultiples(x));
 	}
 	public static int getMultiples(int max){
