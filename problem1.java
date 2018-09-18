@@ -14,4 +14,5 @@ public class problem1{
 		return sum;
 
 	}
+
 }
